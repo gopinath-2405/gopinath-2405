@@ -1,19 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,100:6366F1&height=90&section=header&animation=fadeIn" width="100%" alt="" />
-
-</div>
-
-<br />
-
-<img align="left" src="assets/logo.png" width="72" alt="" />
-
-<h1>Gopinath</h1>
-<p>Full-Stack Developer · React.js + Ruby on Rails</p>
-
-<br clear="left" />
-
-<div align="center">
+<img src="assets/banner.png" width="100%" alt="Gopinath — Full-Stack Developer, React.js + Ruby on Rails" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+enterprise+SaaS+products;React+%2B+TypeScript+%2B+Ruby+on+Rails;Open+to+work+%C2%B7+freelance+%26+full-time)](https://git.io/typing-svg)
 
