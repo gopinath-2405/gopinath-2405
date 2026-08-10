@@ -4,9 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+enterprise+SaaS+products;React+%2B+TypeScript+%2B+Ruby+on+Rails;Open+to+work+%C2%B7+freelance+%26+full-time)](https://git.io/typing-svg)
 
-<a href="#"><!-- TODO: replace # with your deployed portfolio URL after AWS Amplify deployment -->
-  <img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=for-the-badge&labelColor=0b1120" alt="Open to work" />
-</a>
+<img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=for-the-badge&labelColor=0b1120" alt="Open to work" />
 <img src="https://img.shields.io/badge/coding%20since-Dec%202024-6366F1?style=for-the-badge&labelColor=0b1120" alt="Coding since Dec 2024" />
 
 </div>
@@ -59,7 +57,7 @@ Tiruppur, Tamil Nadu, India
 ## Connect with me
 
 <p>
-  <a href="#" target="_blank"><!-- TODO: replace # with your deployed portfolio URL after AWS Amplify deployment -->
+  <a href="https://gopinath.d1ktv8k6cbll9k.amplifyapp.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/gopinath-24b2a7292" target="_blank">
