@@ -1,127 +1,78 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Gopinath — Full-Stack Developer, React.js + Ruby on Rails" />
+<a href="https://gopinath.d1ktv8k6cbll9k.amplifyapp.com/"><img src="assets/hero.svg" width="100%" alt="Hi, I'm Gopinath — Full-Stack Developer. Ships full-stack features end to end, from database to UI." /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&lines=Building+enterprise+SaaS+products;React+%2B+TypeScript+%2B+Ruby+on+Rails;Open+to+work+%C2%B7+freelance+%26+full-time)](https://git.io/typing-svg)
+<br />
 
-<img src="https://img.shields.io/badge/status-open%20to%20work-22c55e?style=for-the-badge&labelColor=0b1120" alt="Open to work" />
-<img src="https://img.shields.io/badge/coding%20since-Dec%202024-6366F1?style=for-the-badge&labelColor=0b1120" alt="Coding since Dec 2024" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg" />
+  <img src="assets/experience-dark.svg" height="46" alt="Experience since Dec 2024" />
+</picture>
 
 </div>
 
 <br />
 
-## About me
+<img src="assets/sections/about.svg" width="100%" alt="About me" />
 
-I'm a Full-Stack Developer who builds enterprise SaaS products with **React** and **TypeScript** on the frontend, and **Ruby on Rails** on the backend. At Drylogic Solutions, I shipped end-to-end features across two production platforms — a textile-industry CRM and order-management system, and a theatrical payroll platform — covering everything from authorization and data security to UI architecture and reporting dashboards.
+I'm a Full-Stack Developer with **<!-- EXPERIENCE-TEXT:START -->1 year 9 months<!-- EXPERIENCE-TEXT:END -->** of experience building **SaaS applications**. I ship features end to end — from database to UI — and I'm comfortable owning a feature from the data model all the way to the screen.
 
-I started as a self-trained intern, working through JavaScript, TypeScript, React and Rails in sequence before converting to a full-time role — so I care about writing code the next engineer can pick up quickly, and about owning a feature from schema to screen.
+- ⚛️ **Frontend:** **React.js** and **Next.js** with **TypeScript** — Redux Toolkit, RTK Query, schema-driven forms (React Hook Form + Zod), Material UI, Radix UI, shadcn/ui and Tailwind CSS
+- 🛠️ **Backend:** **Ruby on Rails 8** or **Node.js + Express.js** — REST APIs, JWT authentication, and background jobs with Sidekiq and Redis
+- 🗄️ **Data & cloud:** **PostgreSQL** and DynamoDB, with AWS Cognito and AWS Amplify for authentication and hosting
 
-**I'm currently open to new full-time and freelance opportunities.**
-
-- 💼 Previously Full-Stack Developer @ Drylogic Solutions (promoted from Intern)
-- 🧩 Deep experience with complex workflows, forms, validations, and state management
-- 🚀 Comfortable across the stack — REST APIs, authorization, background jobs, and the React UI on top
-- 🤖 Use AI coding tools (Claude Code, Amazon Q, ChatGPT) daily as part of my workflow
-- 🏆 Care about clean architecture, reusable components, and code the next person can pick up fast
+I care about clean, reusable architecture and writing code the next engineer can pick up quickly — building secure, well-tested features with a focus on performance and a great user experience.
 
 <br />
 
-## At a glance
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Status**
-Open to work — freelance & full-time
-
-**Previous**
-Full-Stack Developer @ Drylogic Solutions
-
-</td>
-<td width="50%" valign="top">
-
-**Focus**
-React · TypeScript · Ruby on Rails
-
-**Based in**
-Tiruppur, Tamil Nadu, India
-
-</td>
-</tr>
-</table>
-
-<br />
-
-## Connect with me
+<img src="assets/sections/bring.svg" width="100%" alt="What I bring" />
 
 <p>
-  <a href="https://gopinath.d1ktv8k6cbll9k.amplifyapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/gopinath-24b2a7292" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:gopi63669@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about/strengths-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/about/strengths-light.svg" />
+  <img src="assets/about/strengths-dark.svg" width="100%" alt="What I bring: Auth & Security — authentication, multi-tenant access control and sensitive-data protection; Performance & Testing — Vitest, React Testing Library, RSpec and MSW; AI-assisted Workflow — Claude Code and ChatGPT every day." />
+</picture>
 </p>
 
 <br />
 
-## Tech stack
+<img src="assets/sections/connect.svg" width="100%" alt="Connect with me" />
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vite,redux,tailwind" alt="Frontend tech icons" /><br /><br />
-
-React · TypeScript · JavaScript (ES6+) · Redux Toolkit · RTK Query · React Router · MUI / MUI X · React Hook Form · Zod · ECharts · Nivo · Tiptap · Vite · Tailwind CSS
-
-</td>
-<td valign="top" width="50%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=rails,ruby,postgres,redis,docker" alt="Backend tech icons" /><br /><br />
-
-Ruby on Rails 8 · PostgreSQL · RESTful APIs · Sidekiq · Pundit · Ransack · RSpec · Redis · Amazon Cognito · Amazon S3
-
-</td>
-</tr>
-<tr>
-<td valign="top" colspan="2">
-
-**Tooling & AI**
-
-<img src="https://skillicons.dev/icons?i=git,vscode" alt="Tooling icons" /><br /><br />
-
-Git · Docker · Vitest · ESLint · Prettier · RuboCop &nbsp;|&nbsp; Claude Code · Amazon Q · ChatGPT
-
-</td>
-</tr>
-</table>
+<p>
+  <a href="https://gopinath.d1ktv8k6cbll9k.amplifyapp.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect/portfolio-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/connect/portfolio-light.svg" /><img src="assets/connect/portfolio-dark.svg" height="46" alt="Portfolio" /></picture></a>
+  <a href="https://linkedin.com/in/gopinath-24b2a7292"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect/linkedin-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/connect/linkedin-light.svg" /><img src="assets/connect/linkedin-dark.svg" height="46" alt="LinkedIn" /></picture></a>
+  <a href="https://github.com/gopinath-2405"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect/github-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/connect/github-light.svg" /><img src="assets/connect/github-dark.svg" height="46" alt="GitHub" /></picture></a>
+  <a href="mailto:gopi63669@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect/email-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/connect/email-light.svg" /><img src="assets/connect/email-dark.svg" height="46" alt="Email" /></picture></a>
+  <a href="https://gopinath.d1ktv8k6cbll9k.amplifyapp.com/Gopinath_Resume.pdf"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/connect/resume-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="assets/connect/resume-light.svg" /><img src="assets/connect/resume-dark.svg" height="46" alt="Resume" /></picture></a>
+</p>
 
 <br />
 
-## Featured work
+<img src="assets/sections/stack.svg" width="100%" alt="Tech stack" />
 
-Both platforms below are proprietary products built for an employer/client, so code and live demos aren't publicly shareable.
-
-**Merkensoft** — Textile-industry CRM and order-management system. Led an architecture refactor to a config-driven field system, engineered infinite scroll with a shared pagination layer, and shipped chart dashboards with ECharts and Nivo.
-
-**Greenroom** — Theatrical payroll platform built for client TableTop Labs. Built the platform's multi-company access model from scratch, launched payroll processing and tax filing end to end, and led sensitive-data hardening across the app.
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/skills/tech-stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/skills/tech-stack-light.svg" />
+  <img src="assets/skills/tech-stack-dark.svg" width="100%" alt="Tech stack: JavaScript, TypeScript, Ruby, SQL, HTML5, CSS3, React.js, Next.js, Redux Toolkit, RTK Query, React Hook Form, Zod, Material UI, Radix UI, shadcn/ui, Tailwind CSS, Node.js, Express.js, Ruby on Rails 8, Sidekiq, Redis, REST APIs, JWT, PostgreSQL, DynamoDB, Vitest, React Testing Library, RSpec, MSW, AWS Cognito, AWS Amplify, Docker, Docker Compose, Kamal, Vercel, ECharts, ApexCharts, Recharts, Git, GitHub, Vite, npm, pnpm, ESLint, Prettier, RuboCop, VS Code, Claude Code, ChatGPT" />
+</picture>
+</p>
 
 <br />
 
-<div align="center">
+<img src="assets/sections/education.svg" width="100%" alt="Education" />
 
-📫 Reach me at **gopi63669@gmail.com** · 📍 Tiruppur, Tamil Nadu, India
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/education-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/education-light.svg" />
+  <img src="assets/education-dark.svg" width="100%" alt="B.Sc. Mathematics — Government Arts College (Autonomous), Coimbatore · Sep 2021 – May 2024 · CGPA 9.609 / 10 (Distinction)" />
+</picture>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:0F766E&height=100&section=footer" width="100%" alt="footer" />
+<br />
+<br />
 
-</div>
+<img src="assets/footer.svg" width="100%" alt="Build scalable, secure products. Turning ideas into production-ready SaaS. gopi63669@gmail.com · Palladam, Tiruppur, Tamil Nadu, India" />
