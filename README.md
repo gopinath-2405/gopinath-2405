@@ -16,7 +16,7 @@
 
 <img src="assets/sections/about.svg" width="100%" alt="About me" />
 
-I'm a Full-Stack Developer with **<!-- EXPERIENCE-TEXT:START -->1 year 9 months<!-- EXPERIENCE-TEXT:END -->** of experience building **SaaS applications**. I ship features end to end — from database to UI — and I'm comfortable owning a feature from the data model all the way to the screen.
+I'm a Full-Stack Developer with **<!-- EXPERIENCE-TEXT:START -->1 year 10 months<!-- EXPERIENCE-TEXT:END -->** of experience building **SaaS applications**. I ship features end to end — from database to UI — and I'm comfortable owning a feature from the data model all the way to the screen.
 
 - ⚛️ **Frontend:** **React.js** and **Next.js** with **TypeScript** — Redux Toolkit, RTK Query, schema-driven forms (React Hook Form + Zod), Material UI, Radix UI, shadcn/ui and Tailwind CSS
 - 🛠️ **Backend:** **Ruby on Rails 8** or **Node.js + Express.js** — REST APIs, JWT authentication, and background jobs with Sidekiq and Redis
